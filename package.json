@@ -1,0 +1,1 @@
+{"dependencies":{"adm-zip":"^0.5.16"},"description":"VLESS + WebSocket proxy node (xray-core) for PaaS deployment","engines":{"node":">=20"},"name":"abasthan-node","private":true,"scripts":{"setup":"node setup.js","start":"node server.js"},"version":"1.0.0"}
